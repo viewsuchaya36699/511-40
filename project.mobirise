@@ -27,10 +27,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1057,7 +1054,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%AD%E0%B8%87-2000x1331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1331.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
